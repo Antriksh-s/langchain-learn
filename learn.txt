@@ -1,3 +1,23 @@
+-----------
+Python
+-----------
+
+Ruff notes:
+
+String, class and objecttry and except
+Retry
+
+Understand caching in python
+
+------------------------------------------
+Pydantic.  (Validate input output)
+------------------------------------------
+
+—————————————————————
+Langchain
+
 batch()
 stream()
 invoke()
+RunnableLambda
+—————————————————————
